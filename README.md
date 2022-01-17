@@ -1,3 +1,3 @@
 # odin-recipes
-Refreshing basic HTML skills
-Creating a recepie page
+Refreshing basic HTML skills  
+Creating a website displaying various recipes 
