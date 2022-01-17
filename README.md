@@ -1,2 +1,3 @@
 # odin-recipes
-HTML Sample Page
+Refreshing basic HTML skills
+Creating a recepie page
