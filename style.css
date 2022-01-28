@@ -1,4 +1,23 @@
 .header{
-    color:red;
-    background-color: black;
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
 }
+
+.recepe-links{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+img {
+    width: 100%;
+    height: auto;
+  }
+
+  h1{
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+  }
